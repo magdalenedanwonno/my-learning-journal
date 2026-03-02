@@ -1,0 +1,30 @@
+
+# My Learning Journal
+
+This is my personal **Learning Journal** website. I created it to document my journey learning frontend development and to showcase my projects. I will be updating it as time goes on.
+
+## Features
+
+- **Responsive Design**: Mobile-first with CSS Grid, Flexbox, and media queries.
+- **Homepage**:
+  - Hero section with a featured post
+  - Recent posts grid (first 6 shown, "View more" button reveals the rest)
+- **Article Page**: Full post with related image and recent posts
+- **About Page**: My bio, photo, and recent posts
+- **Contact Page**: Email, portfolio, GitHub, and Netlify links
+- **Navigation**: Responsive navbar with hamburger menu on mobile
+- **Interactive Elements**: Hover effects for navigation and buttons, "View more" functionality
+
+## Skills Practiced
+
+- HTML5 & semantic structure
+- CSS3 (Flexbox, Grid, responsive units)
+- JavaScript (DOM manipulation, event handling)
+- Mobile-first design
+- Accessibility and user experience
+
+## How to Use
+
+1. Clone this repository
+2. Open `index.html` in a browser
+3. Replace images and text with your own learning content
